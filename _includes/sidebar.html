@@ -5,13 +5,12 @@
     <div class="sidebar-about">
       <h1>
        <a href="{{ site.baseurl }}">
-          <img src="{{ site.baseurl }}public/logo.png" alt="logo.png" width="144" height="144">
+          <img src="{{ site.baseurl }}public/logo.png" alt="logo.png">
         </a>
-        <a href="{{ site.baseurl }}" style="font-size:80%;text-align:center;">
-          {{ site.title <br> site.subtitle }}
-        </a>
+          <p href="{{ site.baseurl }}" style="font-size:80%;text-align:center;">
+            {{ site.title }} <br> {{ site.subtitle }}
+          </p>
       </h1>
-      <p class="sidebar-about-description">{{ site.description }}</p>
       <p class="sidebar-about-email">{{ site.email }}</p>
     </div>
 
@@ -35,8 +34,10 @@
           </div>
         </div>
 
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}publications/">Publications</a>
-    <a class="sidebar-nav-item" href="https://github.com/jiangjiechen">GitHub Page</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}publications/">Publications</a>
+        <a class="sidebar-nav-item" href="https://github.com/jiangjiechen">GitHub Page</a>
+        <a class="sidebar-nav-item" href="https://scholar.google.com.hk/citations?hl=en&user=XarNs8oAAAAJ">Google Scholar</a>
+
    </nav>
   </div>
  </div>

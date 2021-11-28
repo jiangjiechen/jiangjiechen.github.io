@@ -10,8 +10,8 @@ relative_permalinks: false
 title:            Jiangjie Chen
 subtitle:         陈江捷
 tagline:          'Homepage'
-description:      "Ph.D. student, Fudan University, China"
-email:            "Email: jjchen19[at]fudan.edu.cn"
+description:      "Ph.D. student@Fudan University"
+email:            "E-Mail: jjchen19[at]fudan.edu.cn"
 url:              https://jiangjiechen.github.io/
 baseurl:          https://jiangjiechen.github.io/
 
