@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         gfm
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Jiangjie Chen
+subtitle:         陈江捷
+tagline:          'Homepage'
+description:      "Ph.D. student, Fudan University, China"
+email:            "Email: jjchen19[at]fudan.edu.cn"
+url:              https://jiangjiechen.github.io/
+baseurl:          https://jiangjiechen.github.io/
+
+author:
+  name:           
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           
+plugins:
+  - jekyll-sitemap
