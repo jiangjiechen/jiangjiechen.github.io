@@ -141,7 +141,7 @@ img {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 20rem;
+    width: 18rem;
     text-align: left;
   }
 }
@@ -175,7 +175,6 @@ color:#fff;
 .sidebar-about-email {
   font-size: 1rem;
   font-weight: 300;
-  margin: 0px;
 }
 
 /* Sidebar nav */

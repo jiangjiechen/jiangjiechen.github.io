@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 
+
 - \**NEW!*\* **Diversified Query Generation Guided with Knowledge Graph**.
 Xinyao Shen, **Jiangjie Chen**, Jiaze Chen, Chun Zeng, Yanghua Xiao. 
 In *The 15th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2022.
