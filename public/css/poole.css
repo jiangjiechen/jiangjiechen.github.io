@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  text-decoration: underline;
 }
 h1 {
   font-size: 2rem;
@@ -290,11 +291,12 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 70rem;
+  max-width: 45rem;
   padding-left:  1rem;
-  padding-right: 1rem;
+  padding-right: 0rem;
   margin-left:  auto;
   margin-right: auto;
+  margin-bottom: 64px;
 }
 
 
@@ -334,7 +336,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */
@@ -380,6 +382,62 @@ tbody tr:nth-child(odd) th {
 .related-posts li a:hover small {
   color: inherit;
 }
+
+a.button:visited
+{
+    color:inherit;
+}
+.button {
+  border: none;
+  padding: 1px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: #4CAF50;
+  color: white;
+}
+.button1:hover {
+  background-color: white;
+  color: #4CAF50;
+  border: 2px solid #4CAF50;
+}
+.button2 {
+  background-color: #008CBA;
+  color: white;
+}
+.button2:hover {
+  background-color: white;
+  color: #008CBA;
+  border: 2px solid #008CBA;
+}
+.button3 {
+  background-color: #e07b39;
+  color: white;
+}
+.button3:hover {
+  background-color: white;
+  color: #e07b39;
+  border: 2px solid #e07b39;
+}
+.conf {
+  color: inherit;
+  text-decoration: none;
+}
+/* .conf:visited {
+  color: white;
+  text-decoration: none;
+}
+.conf:hover
+{
+    color:white;
+    text-decoration:none;
+} */
 
 
 /*
