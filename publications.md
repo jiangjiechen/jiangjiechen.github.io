@@ -14,14 +14,16 @@ Qiaoben Bao, **Jiangjie Chen**, Linfang Liu, Jiaqing Liang, Jingping Liu, Yanghu
 In *The 15th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2022.
 
 
-- **Diversified Paraphrase Generation guided with Commonsense Knowledge Graph**,  
+- <a class="conf" target="_blank" href="https://link.springer.com/chapter/10.1007%2F978-3-030-88480-2_28">**Diversified Paraphrase Generation with Commonsense Knowledge Graph**</a>,  
 Xinyao Shen, **Jiangjie Chen**, Yanghua Xiao.  
 In *The 10th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC**)*, 2021.
+<button type="button" class="button button1"><a class="conf" target="_blank" href="https://link.springer.com/chapter/10.1007%2F978-3-030-88480-2_28">PDF</a></button>
+
 
 
 - <a class="conf" target="_blank" href="https://aclanthology.org/2021.findings-acl.277">**Probabilistic Graph Reasoning for Natural Proof Generation**</a>,  
 Changzhi Sun, Xinbo Zhang, **Jiangjie Chen**, Chun Gan, Yuanbin Wu, Jiaze Chen, Hao Zhou, Lei Li.  
-In *The 59th Annual Meeting of the Association for Computational Linguistics (**ACL-IJCNLP**) - Findings*, 2021.
+In *The 59th Annual Meeting of the Association for Computational Linguistics (**ACL**) - Findings*, 2021.
 <button type="button" class="button button1"><a class="conf" target="_blank" href="https://aclanthology.org/2021.findings-acl.277">PDF</a></button>
 <button type="button" class="button button2"><a class="conf" target="_blank" href="https://github.com/changzhisun/PRobr/">Code</a></button>
 
