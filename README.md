@@ -1,3 +1,5 @@
+# An Homepage Example
+
 Many thanks to the template by [Remy](https://remyie.github.io/remy/)!
 
 > Remy is a Hyde flavor which aims to be more user friendly.
