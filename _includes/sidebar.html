@@ -5,7 +5,7 @@
         <div class="sidebar-about">
             <h1>
                 <a href="{{ site.baseurl }}">
-                    <img src="{{ site.baseurl }}public/logo.png" alt="logo.png" style="width: 75%">
+                    <img src="{{ site.baseurl }}/public/logo.png" alt="logo.png" style="width: 75%">
                 </a>
                 <p href="{{ site.baseurl }}" style="text-align: center">
                     {{ site.title }}
@@ -16,26 +16,26 @@
         </div>
 
         <nav class="sidebar-nav">
-            <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+            <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/index/">Home</a>
 
 
             <!-- use the below command to add new pages to the sidebar. Example:
             <a class="sidebar-nav-item" href="{{ site.baseurl }}page">name for the page</a>
             -->
 
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}research/">Research</a>
 
             <!--Bellow command adds dropright menu to the sidebar-->
 
-            <div class="dropdown">
-                <button class="dropbtn" style="text-align:left;font-size:18px">Projects></button>
-                <div class="dropdown-content">
-                    <a href="{{ site.baseurl }}projects/loren/">LOREN</a>
-                    <a href="{{ site.baseurl }}projects/educat/">EDUCAT</a>
-                </div>
-            </div>
+<!--            <div class="dropdown">-->
+<!--                <button class="dropbtn" style="text-align:left;font-size:18px">Projects></button>-->
+<!--                <div class="dropdown-content">-->
+<!--                    <a href="{{ site.baseurl }}/projects/loren/">LOREN</a>-->
+<!--                    <a href="{{ site.baseurl }}/projects/educat/">EDUCAT</a>-->
+<!--                </div>-->
+<!--            </div>-->
 
-            <a class="sidebar-nav-item" href="{{ site.baseurl }}publications/">Publications</a>
+            <a class="sidebar-nav-item" href="{{ site.baseurl }}/publications/">Publications</a>
+<!--            <a class="sidebar-nav-item" href="{{ site.baseurl }}/team/">Team Members</a>-->
             <a class="sidebar-nav-item" href="https://github.com/jiangjiechen">GitHub Page</a>
             <a class="sidebar-nav-item" href="https://scholar.google.com.hk/citations?hl=en&user=XarNs8oAAAAJ">Google
                 Scholar</a>

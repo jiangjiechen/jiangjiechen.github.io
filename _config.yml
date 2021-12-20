@@ -13,7 +13,7 @@ tagline:          'Homepage'
 description:      "Ph.D. student@Fudan University"
 email:            "E-Mail: jjchen19[at]fudan.edu.cn"
 url:              https://jiangjiechen.github.io/
-baseurl:          https://jiangjiechen.github.io/
+baseurl:          ""
 
 author:
   name:           

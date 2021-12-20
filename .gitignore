@@ -183,3 +183,5 @@ _site/
 
 README.md
 !/README.md
+Gemfile*
+team.md
