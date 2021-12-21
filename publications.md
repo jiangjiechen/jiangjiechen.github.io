@@ -27,6 +27,7 @@ In *The 15th ACM International Conference on Web Search and Data Mining (**WSDM*
 - **<font color=red>[NEW!]</font>** **Harvesting More Answer Spans from Paragraphs beyond Annotation** (coming soon),  
 Qiaoben Bao, **Jiangjie Chen**, Linfang Liu, Jiaqing Liang, Jingping Liu, Yanghua Xiao.  
 In *The 15th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2022.
+<button type="button" class="button button2"><a class="conf" target="_blank" href="https://github.com/iambabao/SCOPE">Code</a></button>
 
 
 - <a class="conf" target="_blank" href="https://link.springer.com/chapter/10.1007%2F978-3-030-88480-2_28">**Diversified Paraphrase Generation with Commonsense Knowledge Graph**</a>,  
