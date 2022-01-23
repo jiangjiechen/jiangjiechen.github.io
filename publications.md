@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+- **<font color=red>[NEW!]</font>** **FalCon: A Faithful Contrastive Framework for Response Generation in TableQA Systems** (coming soon),  
+Shineng Fang, **Jiangjie Chen**, Xinyao Shen, Yunwen Chen, Yanghua Xiao.  
+In *The 27th International Conference on Database Systems for Advanced Applications (**DASFAA**)*, 2022. 
+
 
 - **<font color=red>[NEW!]</font>** <a class="conf" target="_blank" href="https://arxiv.org/abs/2012.13577">**LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification**</a> (pre-print),  
 **Jiangjie Chen**, Qiaoben Bao, Changzhi Sun, Xinbo Zhang, Jiaze Chen, Hao Zhou, Yanghua Xiao, Lei Li.  
@@ -35,7 +39,6 @@ Xinyao Shen, **Jiangjie Chen**, Yanghua Xiao.
 In *The 10th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC**)*, 2021.
 <button type="button" class="button button1"><a class="conf" target="_blank" href="https://link.springer.com/chapter/10.1007%2F978-3-030-88480-2_28">PDF</a></button>
 
-  
 - <a class="conf" target="_blank" href="https://aclanthology.org/2021.findings-acl.277">**Probabilistic Graph Reasoning for Natural Proof Generation**</a>,  
 Changzhi Sun*, Xinbo Zhang*, **Jiangjie Chen**, Chun Gan, Yuanbin Wu, Jiaze Chen, Hao Zhou, Lei Li.  
 In *The 59th Annual Meeting of the Association for Computational Linguistics (**ACL**) - Findings*, 2021.
