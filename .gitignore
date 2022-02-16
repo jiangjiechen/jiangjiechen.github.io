@@ -185,3 +185,7 @@ README.md
 !/README.md
 Gemfile*
 team.md
+
+node_modules/
+go.sum
+.hugo_build.lock
