@@ -5,7 +5,7 @@
     <link>https://jiangjiechen.github.io/publication/</link>
       <atom:link href="https://jiangjiechen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning</title>
+      <link>https://jiangjiechen.github.io/publication/ekar/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/ekar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FalCon: A Faithful Contrastive Framework for Response Generation in TableQA Systems</title>
       <link>https://jiangjiechen.github.io/publication/falcon/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/falcon/</guid>
       <description></description>
     </item>
