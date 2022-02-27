@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Explainable NLP | Jiangjie Chen</title>
-    <link>https://jiangjiechen.github.io/tag/explainable-nlp/</link>
-      <atom:link href="https://jiangjiechen.github.io/tag/explainable-nlp/index.xml" rel="self" type="application/rss+xml" />
-    <description>Explainable NLP</description>
+    <title>Projects | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/projects/</link>
+      <atom:link href="https://jiangjiechen.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
-      <title>Explainable NLP</title>
-      <link>https://jiangjiechen.github.io/tag/explainable-nlp/</link>
+      <title>Projects</title>
+      <link>https://jiangjiechen.github.io/projects/</link>
     </image>
     
     <item>
@@ -41,27 +41,21 @@ More importantly, symbolic reasoning is too fragile to handle everyday reasoning
     </item>
     
     <item>
-      <title>E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning</title>
-      <link>https://jiangjiechen.github.io/publication/ekar/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/ekar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification</title>
-      <link>https://jiangjiechen.github.io/publication/loren/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/loren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Graph Reasoning for Natural Proof Generation</title>
-      <link>https://jiangjiechen.github.io/publication/probr/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/probr/</guid>
-      <description></description>
+      <title>Theme II - Towards Factual, Controllable and Versatile Text Generation 🤖</title>
+      <link>https://jiangjiechen.github.io/projects/generation/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/projects/generation/</guid>
+      <description>&lt;p&gt;The success of deep text generation is being held back by its non-factuality. How to unleash the power of text generation models while restraining it from talking gibberish?
+In this research theme, we explore the potentials of text generation w.r.t. factuality, controllability and versatility.&lt;/p&gt;
+&lt;p&gt;To achieve these goals, one of the key perspectives is to &lt;strong&gt;incorporate various prior knowledge into neural models&lt;/strong&gt;, including logical rules, templates and external knowledge bases.
+Exemplar papers in this theme include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/loren/&#34;&gt;LOREN (AAAI 2022)&lt;/a&gt;: interpretable fact verification against trustworthy knowledge bases;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/falcon/&#34;&gt;FalCon (DASFAA 2022)&lt;/a&gt;: faithful response generation with contrastive learning;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/kedy/&#34;&gt;KeDy (WSDM 2022)&lt;/a&gt; and &lt;a href=&#34;https://jiangjiechen.github.io/publication/keep/&#34;&gt;Keep (NLPCC 2021)&lt;/a&gt;: diversified generation guided by knowledge graphs;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/hedmodgen/&#34;&gt;HedModTmpl (ACL 2019)&lt;/a&gt;: generating faithful entity type descriptions constrained by head-modifier templates.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
