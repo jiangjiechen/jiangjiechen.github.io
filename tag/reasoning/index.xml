@@ -20,10 +20,11 @@
       <description>&lt;p&gt;For humans, intuitive inferences are made every now and then.
 However, it would require reasons for humans to convince others and justify themselves of their inferences or decisions.
 How can machines better convince humans of their predictions?
-The key may lie in being right for the right and faithful reasons.&lt;/p&gt;
+The key may lie in making the right and faithful reasons for self-justification.&lt;/p&gt;
 &lt;p&gt;What is human-like reasoning? What is the holy grail of machine cognition?
-It is easy to be right due to various spurious correlations, but it would require some actual reasoning skills real to be right for the right and faithful reasons.
-More importantly, symbolic reasoning is too fragile to handle everyday reasoning, can reasoning happen over natural language like humans do?&lt;/p&gt;
+It is easy to be right due to various spurious correlations, but it would require some actual reasoning skills to be right for the right and faithful reasons.
+More importantly, symbolic reasoning is too fragile to handle everyday reasoning.
+Can machine reasoning happen over natural language like humans do?&lt;/p&gt;
 &lt;p&gt;In this research theme, we particularly focus on three sub-topics:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;reasoning over natural language, especially with text generation techniques;&lt;/li&gt;
