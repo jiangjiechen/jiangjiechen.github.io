@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Constrained Generation | Jiangjie Chen</title>
-    <link>https://jiangjiechen.github.io/tag/constrained-generation/</link>
-      <atom:link href="https://jiangjiechen.github.io/tag/constrained-generation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Constrained Generation</description>
+    <title>Machine Translation | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/machine-translation/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Translation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
-      <title>Constrained Generation</title>
-      <link>https://jiangjiechen.github.io/tag/constrained-generation/</link>
+      <title>Machine Translation</title>
+      <link>https://jiangjiechen.github.io/tag/machine-translation/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jiangjiechen.github.io/publication/act/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/act/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation</title>
-      <link>https://jiangjiechen.github.io/publication/hedmodgen/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/hedmodgen/</guid>
       <description></description>
     </item>
     
