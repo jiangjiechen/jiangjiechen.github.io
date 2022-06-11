@@ -25,12 +25,6 @@ The key may lie in making the right and faithful reasons for self-justification.
 It is easy to be right due to various spurious correlations, but it would require some actual reasoning skills to be right for the right and faithful reasons.
 More importantly, symbolic reasoning is too fragile to handle everyday reasoning.
 Can machine reasoning happen over natural language like humans do?&lt;/p&gt;
-&lt;p&gt;In this research theme, we particularly focus on three sub-topics:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;reasoning over natural language, especially with text generation techniques;&lt;/li&gt;
-&lt;li&gt;reasoning with faithful and accurate rationales;&lt;/li&gt;
-&lt;li&gt;counterfactual reasoning for contrastive explanations.&lt;/li&gt;
-&lt;/ol&gt;
 &lt;p&gt;Exemplar papers in this theme include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/ekar/&#34;&gt;E-KAR (Findings of ACL 2022)&lt;/a&gt;: a benchmark for analogical reasoning with free-text rationales for both positive and negative candidate answers;&lt;/li&gt;
