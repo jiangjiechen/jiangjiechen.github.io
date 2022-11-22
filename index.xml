@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/</link>
       <atom:link href="https://jiangjiechen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiangjie Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Jiangjie Chen</title>
       <link>https://jiangjiechen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Converge to the Truth: Factual Error Correction via Iterative Constrained Editing</title>
+      <link>https://jiangjiechen.github.io/publication/vence/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/vence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Explanation Generation via Correct Instantiations</title>
+      <link>https://jiangjiechen.github.io/publication/neon/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints</title>
@@ -35,6 +51,7 @@ More importantly, symbolic reasoning is too fragile to handle everyday reasoning
 Can machine reasoning happen over natural language like humans do?&lt;/p&gt;
 &lt;p&gt;Exemplar papers in this theme include:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/neon&#34;&gt;NEON (AAAI 2023)&lt;/a&gt;: a two-phrase, unsupervised explanation generation framework for explaining why a statement is wrong;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/ekar/&#34;&gt;E-KAR (Findings of ACL 2022)&lt;/a&gt;: a benchmark for analogical reasoning with free-text rationales for both positive and negative candidate answers;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/loren/&#34;&gt;LOREN (AAAI 2022)&lt;/a&gt;: generating faithful and accurate rationales without supervision;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/educat/&#34;&gt;EDUCAT (AAAI 2022)&lt;/a&gt;: unsupervised counterfactual reasoning for imagining possible outcomes;&lt;/li&gt;
@@ -54,6 +71,7 @@ In this research theme, we explore the potentials of text generation w.r.t. fact
 &lt;p&gt;To achieve these goals, one of the key perspectives is to &lt;strong&gt;incorporate various prior knowledge into neural models&lt;/strong&gt;, including logical rules, templates, external knowledge bases, etc.
 Exemplar papers in this theme include:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;publication/vence/&#34;&gt;VENCE (AAAI 2022)&lt;/a&gt;: correcting factual errors in texts with the guidance of fact verification;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;publication/act/&#34;&gt;ACT (NAACL 2022)&lt;/a&gt;: improving lexically constrained non-autoregressive machine translation, especially under low-frequency ones;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/loren/&#34;&gt;LOREN (AAAI 2022)&lt;/a&gt;: interpretable fact verification against trustworthy knowledge bases;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/falcon/&#34;&gt;FalCon (DASFAA 2022)&lt;/a&gt;: faithful response generation with contrastive learning;&lt;/li&gt;

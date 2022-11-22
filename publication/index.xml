@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/publication/</link>
       <atom:link href="https://jiangjiechen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jiangjiechen.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Converge to the Truth: Factual Error Correction via Iterative Constrained Editing</title>
+      <link>https://jiangjiechen.github.io/publication/vence/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/vence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Explanation Generation via Correct Instantiations</title>
+      <link>https://jiangjiechen.github.io/publication/neon/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints</title>
