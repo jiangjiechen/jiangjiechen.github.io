@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faithfulness and Factuality | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/faithfulness-and-factuality/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/faithfulness-and-factuality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Faithfulness and Factuality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Faithfulness and Factuality</title>
+      <link>https://jiangjiechen.github.io/tag/faithfulness-and-factuality/</link>
+    </image>
+    
+    <item>
+      <title>Converge to the Truth: Factual Error Correction via Iterative Constrained Editing</title>
+      <link>https://jiangjiechen.github.io/publication/vence/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/vence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FalCon: A Faithful Contrastive Framework for Response Generation in TableQA Systems</title>
+      <link>https://jiangjiechen.github.io/publication/falcon/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/falcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification</title>
+      <link>https://jiangjiechen.github.io/publication/loren/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/loren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation</title>
+      <link>https://jiangjiechen.github.io/publication/hedmodgen/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/hedmodgen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
