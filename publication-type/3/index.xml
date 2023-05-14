@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analogical Reasoning | Jiangjie Chen</title>
-    <link>https://jiangjiechen.github.io/tag/analogical-reasoning/</link>
-      <atom:link href="https://jiangjiechen.github.io/tag/analogical-reasoning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Analogical Reasoning</description>
+    <title>3 | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/publication-type/3/</link>
+      <atom:link href="https://jiangjiechen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
-      <title>Analogical Reasoning</title>
-      <link>https://jiangjiechen.github.io/tag/analogical-reasoning/</link>
+      <title>3</title>
+      <link>https://jiangjiechen.github.io/publication-type/3/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jiangjiechen.github.io/publication/analogykb/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/analogykb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning</title>
-      <link>https://jiangjiechen.github.io/publication/ekar/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/ekar/</guid>
       <description></description>
     </item>
     
