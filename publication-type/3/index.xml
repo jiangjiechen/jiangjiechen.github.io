@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/publication-type/3/</link>
       <atom:link href="https://jiangjiechen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://jiangjiechen.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction</title>
+      <link>https://jiangjiechen.github.io/publication/scar/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/scar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AnalogyKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base</title>
