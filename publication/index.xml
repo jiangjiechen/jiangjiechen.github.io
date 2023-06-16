@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/publication/</link>
+      <atom:link href="https://jiangjiechen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://jiangjiechen.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes</title>
+      <link>https://jiangjiechen.github.io/publication/sloth/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/sloth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction</title>
+      <link>https://jiangjiechen.github.io/publication/scar/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/scar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnalogyKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base</title>
+      <link>https://jiangjiechen.github.io/publication/analogykb/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/analogykb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilling Script Knowledge from Large Language Models for Constrained Language Planning</title>
+      <link>https://jiangjiechen.github.io/publication/coscript/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/coscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge</title>
+      <link>https://jiangjiechen.github.io/publication/uncommongen/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/uncommongen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converge to the Truth: Factual Error Correction via Iterative Constrained Editing</title>
+      <link>https://jiangjiechen.github.io/publication/vence/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/vence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Explanation Generation via Correct Instantiations</title>
+      <link>https://jiangjiechen.github.io/publication/neon/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints</title>
+      <link>https://jiangjiechen.github.io/publication/act/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/act/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning</title>
+      <link>https://jiangjiechen.github.io/publication/ekar/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/ekar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FalCon: A Faithful Contrastive Framework for Response Generation in TableQA Systems</title>
+      <link>https://jiangjiechen.github.io/publication/falcon/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/falcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification</title>
+      <link>https://jiangjiechen.github.io/publication/loren/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/loren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Editing for Counterfactual Stories</title>
+      <link>https://jiangjiechen.github.io/publication/educat/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/educat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversified Query Generation Guided with Knowledge Graph</title>
+      <link>https://jiangjiechen.github.io/publication/kedy/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/kedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harvesting More Answer Spans from Paragraphs beyond Annotation</title>
+      <link>https://jiangjiechen.github.io/publication/scope/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/scope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversified Paraphrase Generation with Commonsense Knowledge Graph</title>
+      <link>https://jiangjiechen.github.io/publication/keep/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/keep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Graph Reasoning for Natural Proof Generation</title>
+      <link>https://jiangjiechen.github.io/publication/probr/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/probr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation</title>
+      <link>https://jiangjiechen.github.io/publication/hedmodgen/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/hedmodgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction</title>
+      <link>https://jiangjiechen.github.io/publication/cnprobase/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/cnprobase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

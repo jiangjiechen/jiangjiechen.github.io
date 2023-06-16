@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Graph | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/knowledge-graph/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/knowledge-graph/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge Graph</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Knowledge Graph</title>
+      <link>https://jiangjiechen.github.io/tag/knowledge-graph/</link>
+    </image>
+    
+    <item>
+      <title>Diversified Query Generation Guided with Knowledge Graph</title>
+      <link>https://jiangjiechen.github.io/publication/kedy/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/kedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversified Paraphrase Generation with Commonsense Knowledge Graph</title>
+      <link>https://jiangjiechen.github.io/publication/keep/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/keep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation</title>
+      <link>https://jiangjiechen.github.io/publication/hedmodgen/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/hedmodgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction</title>
+      <link>https://jiangjiechen.github.io/publication/cnprobase/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/cnprobase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

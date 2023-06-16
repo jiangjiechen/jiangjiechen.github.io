@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrieval Augmentation | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/retrieval-augmentation/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/retrieval-augmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retrieval Augmentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Retrieval Augmentation</title>
+      <link>https://jiangjiechen.github.io/tag/retrieval-augmentation/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes</title>
+      <link>https://jiangjiechen.github.io/publication/sloth/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/sloth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
