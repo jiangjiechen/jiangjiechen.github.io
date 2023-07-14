@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/tag/text-generation/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/text-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Text Generation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Text Generation</title>
       <link>https://jiangjiechen.github.io/tag/text-generation/</link>
     </image>
+    
+    <item>
+      <title>Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review</title>
+      <link>https://jiangjiechen.github.io/publication/tcdereview/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/tcdereview/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Converge to the Truth: Factual Error Correction via Iterative Constrained Editing</title>
