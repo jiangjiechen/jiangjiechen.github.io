@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/</link>
       <atom:link href="https://jiangjiechen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiangjie Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Jiangjie Chen</title>
       <link>https://jiangjiechen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Translate Meanings, Not Just Words: IdiomKB&#39;s Role in Optimizing Idiomatic Translation with Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/idiomkb/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/idiomkb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes</title>
@@ -85,7 +93,7 @@
     </item>
     
     <item>
-      <title>Theme I - Explainable Text Reasoning, Being Right for the Right Reasons 🤔</title>
+      <title>Theme I - Text Reasoning, Being Right for the Right Reasons 🤔</title>
       <link>https://jiangjiechen.github.io/projects/reasoning/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/projects/reasoning/</guid>
@@ -119,7 +127,7 @@ In this research theme, we explore the potentials of text generation w.r.t. fact
 &lt;p&gt;To achieve these goals, one of the key perspectives is to &lt;strong&gt;incorporate various prior knowledge into neural models&lt;/strong&gt;, including logical rules, templates, external knowledge bases, etc.
 Exemplar papers in this theme include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;publication/vence/&#34;&gt;VENCE (AAAI 2022)&lt;/a&gt;: correcting factual errors in texts with the guidance of fact verification;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;publication/vence/&#34;&gt;VENCE (AAAI 2023)&lt;/a&gt;: correcting factual errors in texts with the guidance of fact verification;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;publication/act/&#34;&gt;ACT (NAACL 2022)&lt;/a&gt;: improving lexically constrained non-autoregressive machine translation, especially under low-frequency ones;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/loren/&#34;&gt;LOREN (AAAI 2022)&lt;/a&gt;: interpretable fact verification against trustworthy knowledge bases;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jiangjiechen.github.io/publication/falcon/&#34;&gt;FalCon (DASFAA 2022)&lt;/a&gt;: faithful response generation with contrastive learning;&lt;/li&gt;
