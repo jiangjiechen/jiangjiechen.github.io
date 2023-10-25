@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: October 25, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -8,7 +10,7 @@
   
   
   
-    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+    <meta name="generator" content="Wowchemy 5.9.0 for Hugo" />
   
 
   
@@ -62,46 +64,20 @@
 
   
   
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Jiangjie Chen" />
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Paraphrases refer to text with different expressions conveying the same meaning, which is usually modeled as a sequence-to-sequence (Seq2Seq) learning problem. Traditional Seq2Seq models mainly concentrate on fidelity while ignoring the diversity of paraphrases. Although recent studies begin to focus on the diversity of generated paraphrases, they either adopt inflexible control mechanisms or restrict to synonyms and topic knowledge. In this paper, we propose KnowledgE-Enhanced Paraphraser (KEEP) for diversified paraphrase generation, which leverages a commonsense knowledge graph to explicitly enrich the expressions of paraphrases. Specifically, KEEP retrieves word-level and phrase-level knowledge from an external knowledge graph, and learns to choose more related ones using graph attention mechanism. Extensive experiments on benchmarks of paraphrase generation show the strengths especially in the diversity of our proposed model compared with several strong baselines." />
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://jiangjiechen.github.io/publication/keep/" />
-
-  
-  
-  
-    <meta name="theme-color" content="#1565c0" />
-  
 
   
   
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
 
   
   
   
     
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -236,7 +212,11 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.3495fc6150afdd177f1d04fbba9f5e2c.css" />
+  <link rel="stylesheet" href="/css/wowchemy.7eaca94f0cfe2f9115699dbdb8fbc775.css" />
+
+  
+  
+  
 
   
   
@@ -256,71 +236,101 @@
 
 
 
-  
-
-
-  
-
-
-  
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
 
+
+
+
+
+
+  <meta name="author" content="Jiangjie Chen" />
+
+
+
+
+
   
-  
+
+<meta name="description" content="Paraphrases refer to text with different expressions conveying the same meaning, which is usually modeled as a sequence-to-sequence (Seq2Seq) learning problem. Traditional Seq2Seq models mainly concentrate on fidelity while ignoring the diversity of paraphrases. Although recent studies begin to focus on the diversity of generated paraphrases, they either adopt inflexible control mechanisms or restrict to synonyms and topic knowledge. In this paper, we propose KnowledgE-Enhanced Paraphraser (KEEP) for diversified paraphrase generation, which leverages a commonsense knowledge graph to explicitly enrich the expressions of paraphrases. Specifically, KEEP retrieves word-level and phrase-level knowledge from an external knowledge graph, and learns to choose more related ones using graph attention mechanism. Extensive experiments on benchmarks of paraphrase generation show the strengths especially in the diversity of our proposed model compared with several strong baselines." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://jiangjiechen.github.io/publication/keep/" />
+<link rel="canonical" href="https://jiangjiechen.github.io/publication/keep/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
 
   
   
-    <link rel="manifest" href="/manifest.webmanifest" />
-  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png" />
+<meta property="og:site_name" content="Jiangjie Chen" />
+<meta property="og:url" content="https://jiangjiechen.github.io/publication/keep/" />
+<meta property="og:title" content="Diversified Paraphrase Generation with Commonsense Knowledge Graph | Jiangjie Chen" />
+<meta property="og:description" content="Paraphrases refer to text with different expressions conveying the same meaning, which is usually modeled as a sequence-to-sequence (Seq2Seq) learning problem. Traditional Seq2Seq models mainly concentrate on fidelity while ignoring the diversity of paraphrases. Although recent studies begin to focus on the diversity of generated paraphrases, they either adopt inflexible control mechanisms or restrict to synonyms and topic knowledge. In this paper, we propose KnowledgE-Enhanced Paraphraser (KEEP) for diversified paraphrase generation, which leverages a commonsense knowledge graph to explicitly enrich the expressions of paraphrases. Specifically, KEEP retrieves word-level and phrase-level knowledge from an external knowledge graph, and learns to choose more related ones using graph attention mechanism. Extensive experiments on benchmarks of paraphrase generation show the strengths especially in the diversity of our proposed model compared with several strong baselines." /><meta property="og:image" content="https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_180x180_fill_lanczos_center_3.png" />
-
-  <link rel="canonical" href="https://jiangjiechen.github.io/publication/keep/" />
-
+    <meta
+      property="article:published_time"
+      content="2021-07-31T00:00:00&#43;00:00"
+    />
   
   
-  
-  
-  
-  
-  
-  
-    
-    
-  
-  
-
-  
-  
-    
-    
-  
-  <meta property="twitter:card" content="summary" />
-  
-  <meta property="og:site_name" content="Jiangjie Chen" />
-  <meta property="og:url" content="https://jiangjiechen.github.io/publication/keep/" />
-  <meta property="og:title" content="Diversified Paraphrase Generation with Commonsense Knowledge Graph | Jiangjie Chen" />
-  <meta property="og:description" content="Paraphrases refer to text with different expressions conveying the same meaning, which is usually modeled as a sequence-to-sequence (Seq2Seq) learning problem. Traditional Seq2Seq models mainly concentrate on fidelity while ignoring the diversity of paraphrases. Although recent studies begin to focus on the diversity of generated paraphrases, they either adopt inflexible control mechanisms or restrict to synonyms and topic knowledge. In this paper, we propose KnowledgE-Enhanced Paraphraser (KEEP) for diversified paraphrase generation, which leverages a commonsense knowledge graph to explicitly enrich the expressions of paraphrases. Specifically, KEEP retrieves word-level and phrase-level knowledge from an external knowledge graph, and learns to choose more related ones using graph attention mechanism. Extensive experiments on benchmarks of paraphrase generation show the strengths especially in the diversity of our proposed model compared with several strong baselines." /><meta property="og:image" content="https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
-  
-    
-      <meta
-        property="article:published_time"
-        content="2021-07-31T00:00:00&#43;00:00"
-      />
-    
     <meta property="article:modified_time" content="2021-10-15T00:00:00&#43;00:00">
   
 
-  
+
+
+
 
 
     
@@ -367,9 +377,20 @@
 
   
 
+
+
+
+  
+  
+  
+
+  
+  
+
   
 
 
+  
   <title>Diversified Paraphrase Generation with Commonsense Knowledge Graph | Jiangjie Chen</title>
 
   
@@ -401,7 +422,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+  <script src="/js/wowchemy-init.min.e6724bea461adf2acc4820665a329eca.js"></script>
 
   
 
@@ -445,8 +466,12 @@
 
 
 
-  <div class="page-header">
-    
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
 
 
 
@@ -459,7 +484,7 @@
 
 
 
-<header class="header--fixed">
+<header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
@@ -824,6 +849,7 @@
 
         
         
+        
         <li class="nav-item">
           <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
@@ -870,15 +896,16 @@
     
 
 
-
-
-
-
+  
+    
+    
+  
 
 
 <div class="pub">
 
   
+
 
 
 
@@ -1021,7 +1048,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             <a href="/publication/#1">
-              Conference paper
+              1
             </a>
           </div>
         </div>
@@ -1077,8 +1104,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://jiangjiechen.github.io/publication/keep/&amp;text=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fkeep%2F&amp;text=Diversified&#43;Paraphrase&#43;Generation&#43;with&#43;Commonsense&#43;Knowledge&#43;Graph" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1090,8 +1121,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://jiangjiechen.github.io/publication/keep/&amp;t=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fkeep%2F&amp;t=Diversified&#43;Paraphrase&#43;Generation&#43;with&#43;Commonsense&#43;Knowledge&#43;Graph" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1103,8 +1138,14 @@
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph&amp;body=https://jiangjiechen.github.io/publication/keep/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph&amp;body=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fkeep%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1116,8 +1157,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://jiangjiechen.github.io/publication/keep/&amp;title=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fkeep%2F&amp;title=Diversified&#43;Paraphrase&#43;Generation&#43;with&#43;Commonsense&#43;Knowledge&#43;Graph" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1129,8 +1174,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="whatsapp://send?text=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph%20https://jiangjiechen.github.io/publication/keep/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Diversified&#43;Paraphrase&#43;Generation&#43;with&#43;Commonsense&#43;Knowledge&#43;Graph%20https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fkeep%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1142,8 +1191,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://jiangjiechen.github.io/publication/keep/&amp;title=Diversified%20Paraphrase%20Generation%20with%20Commonsense%20Knowledge%20Graph" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fkeep%2F&amp;title=Diversified&#43;Paraphrase&#43;Generation&#43;with&#43;Commonsense&#43;Knowledge&#43;Graph" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1294,13 +1347,17 @@
 
 
   
+  
+  
+  
+  
 
-  
 
-  
 
-  
-  
+
+
+
+
 
 
 
@@ -1343,6 +1400,7 @@
 
 
 
+
   <p class="powered-by">
     
     
@@ -1365,7 +1423,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.32ee83730ed883becad04bc5170512cc.js"></script>
+<script src="/js/vendor-bundle.min.f64289d8217e08e3afcd597d60836062.js"></script>
 
 
 
@@ -1431,11 +1489,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
-  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
 
 
 
@@ -1448,7 +1516,7 @@
   
 
 
-<script src="/en/js/wowchemy.min.85290d887e7fcdd400ccb3ffb9bcd3e3.js"></script>
+<script src="/en/js/wowchemy.min.82efd0fe1287c491a256693d281ecc98.js"></script>
 
 
 
@@ -1484,7 +1552,9 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9137013a66774049159934c29c3f0205.js" type="module"></script>
+
+
 
 
 
