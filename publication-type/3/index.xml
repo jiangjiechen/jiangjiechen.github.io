@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/publication-type/3/</link>
       <atom:link href="https://jiangjiechen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://jiangjiechen.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
+      <link>https://jiangjiechen.github.io/publication/easytool/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</title>
