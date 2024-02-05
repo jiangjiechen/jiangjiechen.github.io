@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benchmark | Jiangjie Chen</title>
+    <link>https://jiangjiechen.github.io/tag/benchmark/</link>
+      <atom:link href="https://jiangjiechen.github.io/tag/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benchmark</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
+      <title>Benchmark</title>
+      <link>https://jiangjiechen.github.io/tag/benchmark/</link>
+    </image>
+    
+    <item>
+      <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>
+      <link>https://jiangjiechen.github.io/publication/travelplanner/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/travelplanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</title>
+      <link>https://jiangjiechen.github.io/publication/aucarena/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/aucarena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction</title>
+      <link>https://jiangjiechen.github.io/publication/scar/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/scar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilling Script Knowledge from Large Language Models for Constrained Language Planning</title>
+      <link>https://jiangjiechen.github.io/publication/coscript/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/coscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge</title>
+      <link>https://jiangjiechen.github.io/publication/uncommongen/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/uncommongen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning</title>
+      <link>https://jiangjiechen.github.io/publication/ekar/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/ekar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
