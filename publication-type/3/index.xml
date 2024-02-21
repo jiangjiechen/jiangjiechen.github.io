@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/publication-type/3/</link>
       <atom:link href="https://jiangjiechen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://jiangjiechen.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation</title>
+      <link>https://jiangjiechen.github.io/publication/timearena/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/timearena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
+      <link>https://jiangjiechen.github.io/publication/incharacter/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/incharacter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>

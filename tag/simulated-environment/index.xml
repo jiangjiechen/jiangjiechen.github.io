@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/tag/simulated-environment/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/simulated-environment/index.xml" rel="self" type="application/rss+xml" />
     <description>Simulated Environment</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Simulated Environment</title>
       <link>https://jiangjiechen.github.io/tag/simulated-environment/</link>
     </image>
+    
+    <item>
+      <title>TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation</title>
+      <link>https://jiangjiechen.github.io/publication/timearena/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/timearena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>
+      <link>https://jiangjiechen.github.io/publication/travelplanner/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/travelplanner/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</title>
