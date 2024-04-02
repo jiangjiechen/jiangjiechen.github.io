@@ -3,42 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jiangjiechen.github.io/publication-type/3/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/agent/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication/agentgroupchat/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/tag/large-language-models/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/tag/llm-analysis/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication_types/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/tag/simulated-environment/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/tags/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/benchmark/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jiangjiechen.github.io/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tag/large-language-models/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://jiangjiechen.github.io/tag/planning/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/publication_types/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/publication/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tag/simulated-environment/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tags/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -80,10 +88,6 @@
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/retrieval/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tag/llm-analysis/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/publication/aucarena/</loc>

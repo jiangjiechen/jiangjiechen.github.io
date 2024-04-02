@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/tag/agent/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/agent/index.xml" rel="self" type="application/rss+xml" />
     <description>Agent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Agent</title>
       <link>https://jiangjiechen.github.io/tag/agent/</link>
     </image>
+    
+    <item>
+      <title>Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior</title>
+      <link>https://jiangjiechen.github.io/publication/agentgroupchat/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/agentgroupchat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation</title>
