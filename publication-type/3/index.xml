@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/publication-type/3/</link>
       <atom:link href="https://jiangjiechen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://jiangjiechen.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>SurveyAgent: A Conversational System for Personalized and Efficient Research Survey</title>
+      <link>https://jiangjiechen.github.io/publication/surveyagent/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/surveyagent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?</title>

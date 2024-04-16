@@ -3,18 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jiangjiechen.github.io/publication-type/3/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jiangjiechen.github.io/publication/irrelevant/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <loc>https://jiangjiechen.github.io/tag/agent/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/large-language-models/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication_types/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication/surveyagent/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/tags/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication/irrelevant/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,24 +42,8 @@
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jiangjiechen.github.io/publication_types/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/publication/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://jiangjiechen.github.io/tag/retrieval/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tags/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tag/agent/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/publication/agentgroupchat/</loc>
