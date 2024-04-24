@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/publication/</link>
       <atom:link href="https://jiangjiechen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jiangjiechen.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
+      <link>https://jiangjiechen.github.io/publication/destiny/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/destiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
+      <link>https://jiangjiechen.github.io/publication/persona/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/persona/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SurveyAgent: A Conversational System for Personalized and Efficient Research Survey</title>
