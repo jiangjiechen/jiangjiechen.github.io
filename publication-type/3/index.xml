@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/publication-type/3/</link>
       <atom:link href="https://jiangjiechen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://jiangjiechen.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
+      <link>https://jiangjiechen.github.io/publication/rplasurvey/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/rplasurvey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
@@ -73,14 +81,6 @@
       <link>https://jiangjiechen.github.io/publication/gumbelsoft/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/gumbelsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>
-      <link>https://jiangjiechen.github.io/publication/travelplanner/</link>
-      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/travelplanner/</guid>
       <description></description>
     </item>
     
