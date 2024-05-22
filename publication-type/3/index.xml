@@ -61,30 +61,6 @@
     </item>
     
     <item>
-      <title>TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation</title>
-      <link>https://jiangjiechen.github.io/publication/timearena/</link>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/timearena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
-      <link>https://jiangjiechen.github.io/publication/incharacter/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/incharacter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick</title>
-      <link>https://jiangjiechen.github.io/publication/gumbelsoft/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/gumbelsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
       <link>https://jiangjiechen.github.io/publication/easytool/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
@@ -97,14 +73,6 @@
       <link>https://jiangjiechen.github.io/publication/aucarena/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/aucarena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AnalogyKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base</title>
-      <link>https://jiangjiechen.github.io/publication/analogykb/</link>
-      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/analogykb/</guid>
       <description></description>
     </item>
     
