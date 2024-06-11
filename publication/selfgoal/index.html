@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="We propose a scientific analogical reasoning benchmark with structure abduction, SCAR, and show that large language models make reasonable scientific analogies after structure abduction." />
+<meta name="description" content="We introduce SelfGoal, an automatic approach that enhances language agents&#39; capabilities to achieve high-level goals with limited instructions and delayed feedback by adaptively breaking down goals into practical subgoals." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://jiangjiechen.github.io/publication/scar/" />
-<link rel="canonical" href="https://jiangjiechen.github.io/publication/scar/" />
+<link rel="alternate" hreflang="en-us" href="https://jiangjiechen.github.io/publication/selfgoal/" />
+<link rel="canonical" href="https://jiangjiechen.github.io/publication/selfgoal/" />
 
 
 
@@ -311,20 +311,20 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://jiangjiechen.github.io/publication/scar/featured.jpg" />
+<meta property="twitter:image" content="https://jiangjiechen.github.io/publication/selfgoal/featured.jpg" />
 <meta property="og:site_name" content="Jiangjie Chen" />
-<meta property="og:url" content="https://jiangjiechen.github.io/publication/scar/" />
-<meta property="og:title" content="Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction | Jiangjie Chen" />
-<meta property="og:description" content="We propose a scientific analogical reasoning benchmark with structure abduction, SCAR, and show that large language models make reasonable scientific analogies after structure abduction." /><meta property="og:image" content="https://jiangjiechen.github.io/publication/scar/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://jiangjiechen.github.io/publication/selfgoal/" />
+<meta property="og:title" content="SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals | Jiangjie Chen" />
+<meta property="og:description" content="We introduce SelfGoal, an automatic approach that enhances language agents&#39; capabilities to achieve high-level goals with limited instructions and delayed feedback by adaptively breaking down goals into practical subgoals." /><meta property="og:image" content="https://jiangjiechen.github.io/publication/selfgoal/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-05-21T00:00:00&#43;00:00"
+      content="2024-06-10T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-05-21T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-06-10T00:00:00&#43;00:00">
   
 
 
@@ -348,20 +348,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://jiangjiechen.github.io/publication/scar/"
+    "@id": "https://jiangjiechen.github.io/publication/selfgoal/"
   },
-  "headline": "Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction",
+  "headline": "SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals",
   
   "image": [
-    "https://jiangjiechen.github.io/publication/scar/featured.jpg"
+    "https://jiangjiechen.github.io/publication/selfgoal/featured.jpg"
   ],
   
-  "datePublished": "2023-05-21T00:00:00Z",
-  "dateModified": "2023-05-21T00:00:00Z",
+  "datePublished": "2024-06-10T00:00:00Z",
+  "dateModified": "2024-06-10T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Siyu Yuan"
+    "name": "Ruihan Yang"
   },
   
   "publisher": {
@@ -372,7 +372,7 @@
       "url": "https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "We propose a scientific analogical reasoning benchmark with structure abduction, SCAR, and show that large language models make reasonable scientific analogies after structure abduction."
+  "description": "We introduce SelfGoal, an automatic approach that enhances language agents' capabilities to achieve high-level goals with limited instructions and delayed feedback by adaptively breaking down goals into practical subgoals."
 }
 </script>
 
@@ -394,7 +394,7 @@
 
 
   
-  <title>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction | Jiangjie Chen</title>
+  <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals | Jiangjie Chen</title>
 
   
   
@@ -414,7 +414,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="0e990e9bf5e064adbbf6e10b0a4e6b5c" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="715be1bf9717a354b37188530c63824f" >
 
   
   
@@ -936,7 +936,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction</h1>
+  <h1>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</h1>
 
   
 
@@ -953,9 +953,12 @@
     
 
   <span >
-      Siyu Yuan</span>, <span class="author-highlighted">
+      Ruihan Yang</span>, <span class="author-highlighted">
       Jiangjie Chen</span>, <span >
-      Xuyang Ge</span>, <span >
+      Yikai Zhang</span>, <span >
+      Siyu Yuan</span>, <span >
+      Aili Chen</span>, <span >
+      Kyle Richardson</span>, <span >
       Yanghua Xiao</span>, <span >
       Deqing Yang</span>
   </div>
@@ -968,7 +971,7 @@
     
       
     
-    May, 2023
+    June, 2024
   </span>
   
 
@@ -993,6 +996,8 @@
 
 <div class="btn-links mb-3">
   
+  <a class="btn btn-outline-primary my-1" href="https://selfgoal-agent.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
+  
   
 
 
@@ -1008,14 +1013,14 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://aclanthology.org/2023.findings-emnlp.160/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="http://arxiv.org/abs/2406.04784" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/scar/cite.bib">
+        data-filename="/publication/selfgoal/cite.bib">
   Cite
 </a>
 
@@ -1043,7 +1048,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/siyuyuan/scar" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/rhyang2021/SELFGOAL" target="_blank" rel="noopener">
     Code</a>
 
 
@@ -1053,10 +1058,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 440px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 374px;">
   <div style="position: relative">
-    <img src="/publication/scar/featured_hub08553aa6968665df8e4ccd9e01923fe_310699_2255af8dd4e74296fcbd639702fc218b.webp" width="720" height="440" alt="" class="featured-image">
-    <span class="article-header-caption">An example of establishing an analogy between two systems across different domains.</span>
+    <img src="/publication/selfgoal/featured_huf0f8c0332b9b2d3a76fce50d44693290_1341482_0ed10f3e51b8e6f0935b360f6c6e11f1.webp" width="720" height="374" alt="" class="featured-image">
+    <span class="article-header-caption">Overview of TravelPlanner. Given a query, language agents are tasked with employing various search tools to gather information. Based on the collected information, language agents are expected to deliver a plan that not only meet the user&rsquo;s needs specified in the query but also adheres to commonsense constraints.</span>
   </div>
 </div>
 
@@ -1066,7 +1071,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Analogical reasoning is essential for human cognition, allowing us to comprehend new concepts by relating them to familiar ones based on common relational structures. Previous work mainly focuses on word analogies, which do not fully represent the analogical reasoning ability of language models (LMs). This paper first examines analogy prompting for large language models (LLMs) in scientific question-answering tasks. Then we discover that LLMs tend to ignore relational structures when performing word analogies, casting doubt on their utility for evaluating analogical reasoning. For better evaluation, we propose an analogical structure abduction task based on cognitive psychology, which aims to abduct structures between two systems to establish an analogy. Then we create a benchmark of scientific analogical reasoning with structure abduction, SCAR, consisting of 400 scientific analogies across 13 domains for this task. Empirical results reveal that LLMs struggle with this task, but the Chain-of-Thought (CoT) method with background knowledge and explanations can improve their capability.</p>
+    <p class="pub-abstract">Language agents powered by large language models (LLMs) are increasingly valuable as decision-making tools in domains such as gaming and programming. However, these agents often face challenges in achieving high-level goals without detailed instructions and in adapting to environments where feedback is delayed. In this paper, we present SelfGoal, a novel automatic approach designed to enhance agents&rsquo; capabilities to achieve high-level goals with limited human prior and environmental feedback. The core concept of SelfGoal involves adaptively breaking down a high-level goal into a tree structure of more practical subgoals during the interaction with environments while identifying the most useful subgoals and progressively updating this structure. Experimental results demonstrate that SelfGoal significantly enhances the performance of language agents across various tasks, including competitive, cooperative, and deferred feedback environments.</p>
     
 
     
@@ -1077,8 +1082,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              1
+            <a href="/publication/#3">
+              3
             </a>
           </div>
         </div>
@@ -1094,7 +1099,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>The 2023 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2023</strong>) - Findings</em></div>
+          <div class="col-12 col-md-9">Preprint</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1114,19 +1119,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/analogical-reasoning/">Analogical Reasoning</a>
-  
-  <a class="badge badge-light" href="/tag/dataset/">Dataset</a>
-  
   <a class="badge badge-light" href="/tag/large-language-models/">Large Language Models</a>
   
-  <a class="badge badge-light" href="/tag/reasoning/">Reasoning</a>
+  <a class="badge badge-light" href="/tag/planning/">Planning</a>
   
-  <a class="badge badge-light" href="/tag/llm-analysis/">LLM Analysis</a>
-  
-  <a class="badge badge-light" href="/tag/explainable-nlp/">Explainable NLP</a>
-  
-  <a class="badge badge-light" href="/tag/benchmark/">Benchmark</a>
+  <a class="badge badge-light" href="/tag/agent/">Agent</a>
   
 </div>
 
@@ -1147,7 +1144,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fscar%2F&amp;text=Beneath&#43;Surface&#43;Similarity%3A&#43;Large&#43;Language&#43;Models&#43;Make&#43;Reasonable&#43;Scientific&#43;Analogies&#43;after&#43;Structure&#43;Abduction" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fselfgoal%2F&amp;text=SelfGoal%3A&#43;Your&#43;Language&#43;Agents&#43;Already&#43;Know&#43;How&#43;to&#43;Achieve&#43;High-level&#43;Goals" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1164,7 +1161,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fscar%2F&amp;t=Beneath&#43;Surface&#43;Similarity%3A&#43;Large&#43;Language&#43;Models&#43;Make&#43;Reasonable&#43;Scientific&#43;Analogies&#43;after&#43;Structure&#43;Abduction" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fselfgoal%2F&amp;t=SelfGoal%3A&#43;Your&#43;Language&#43;Agents&#43;Already&#43;Know&#43;How&#43;to&#43;Achieve&#43;High-level&#43;Goals" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1183,7 +1180,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Beneath%20Surface%20Similarity%3A%20Large%20Language%20Models%20Make%20Reasonable%20Scientific%20Analogies%20after%20Structure%20Abduction&amp;body=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fscar%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=SelfGoal%3A%20Your%20Language%20Agents%20Already%20Know%20How%20to%20Achieve%20High-level%20Goals&amp;body=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fselfgoal%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1200,7 +1197,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fscar%2F&amp;title=Beneath&#43;Surface&#43;Similarity%3A&#43;Large&#43;Language&#43;Models&#43;Make&#43;Reasonable&#43;Scientific&#43;Analogies&#43;after&#43;Structure&#43;Abduction" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fselfgoal%2F&amp;title=SelfGoal%3A&#43;Your&#43;Language&#43;Agents&#43;Already&#43;Know&#43;How&#43;to&#43;Achieve&#43;High-level&#43;Goals" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1217,7 +1214,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Beneath&#43;Surface&#43;Similarity%3A&#43;Large&#43;Language&#43;Models&#43;Make&#43;Reasonable&#43;Scientific&#43;Analogies&#43;after&#43;Structure&#43;Abduction%20https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fscar%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=SelfGoal%3A&#43;Your&#43;Language&#43;Agents&#43;Already&#43;Know&#43;How&#43;to&#43;Achieve&#43;High-level&#43;Goals%20https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fselfgoal%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1234,7 +1231,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fscar%2F&amp;title=Beneath&#43;Surface&#43;Similarity%3A&#43;Large&#43;Language&#43;Models&#43;Make&#43;Reasonable&#43;Scientific&#43;Analogies&#43;after&#43;Structure&#43;Abduction" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fjiangjiechen.github.io%2Fpublication%2Fselfgoal%2F&amp;title=SelfGoal%3A&#43;Your&#43;Language&#43;Agents&#43;Already&#43;Know&#43;How&#43;to&#43;Achieve&#43;High-level&#43;Goals" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1336,6 +1333,24 @@
 
     </div>
   </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
 
 
   

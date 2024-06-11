@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/</link>
       <atom:link href="https://jiangjiechen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiangjie Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Jiangjie Chen</title>
       <link>https://jiangjiechen.github.io/</link>
     </image>
+    
+    <item>
+      <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
+      <link>https://jiangjiechen.github.io/publication/selfgoal/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/selfgoal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
