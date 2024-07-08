@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
+      <title>DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?</title>
+      <link>https://jiangjiechen.github.io/publication/detectbench/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/detectbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
       <link>https://jiangjiechen.github.io/publication/evoagent/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
