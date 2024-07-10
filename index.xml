@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/</link>
       <atom:link href="https://jiangjiechen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiangjie Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Jiangjie Chen</title>
       <link>https://jiangjiechen.github.io/</link>
     </image>
+    
+    <item>
+      <title>How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?</title>
+      <link>https://jiangjiechen.github.io/publication/irrelevant/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/irrelevant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?</title>
@@ -65,14 +73,6 @@
       <link>https://jiangjiechen.github.io/publication/surveyagent/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/surveyagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?</title>
-      <link>https://jiangjiechen.github.io/publication/irrelevant/</link>
-      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/irrelevant/</guid>
       <description></description>
     </item>
     
