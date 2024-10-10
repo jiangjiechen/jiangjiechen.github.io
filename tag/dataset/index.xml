@@ -5,7 +5,7 @@
     <link>https://jiangjiechen.github.io/tag/dataset/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/dataset/index.xml" rel="self" type="application/rss+xml" />
     <description>Dataset</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Dataset</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
-      <link>https://jiangjiechen.github.io/publication/destiny/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/destiny/</guid>
+      <title>Past Meets Present: Creating Historical Analogy with Large Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/historyanalogy/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/historyanalogy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
-      <link>https://jiangjiechen.github.io/publication/persona/</link>
+      <link>https://jiangjiechen.github.io/publication/cross/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
+      <link>https://jiangjiechen.github.io/publication/lifechoice/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/persona/</guid>
+      <guid>https://jiangjiechen.github.io/publication/lifechoice/</guid>
       <description></description>
     </item>
     
