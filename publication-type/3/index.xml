@@ -29,22 +29,6 @@
     </item>
     
     <item>
-      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
-      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
-      <link>https://jiangjiechen.github.io/publication/selfgoal/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/selfgoal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
       <link>https://jiangjiechen.github.io/publication/lifechoice/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
@@ -73,14 +57,6 @@
       <link>https://jiangjiechen.github.io/publication/easytool/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</title>
-      <link>https://jiangjiechen.github.io/publication/aucarena/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/aucarena/</guid>
       <description></description>
     </item>
     
