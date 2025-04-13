@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/tag/role-playing-agent/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/role-playing-agent/index.xml" rel="self" type="application/rss+xml" />
     <description>Role-Playing Agent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Role-Playing Agent</title>
       <link>https://jiangjiechen.github.io/tag/role-playing-agent/</link>
     </image>
+    
+    <item>
+      <title>DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling</title>
+      <link>https://jiangjiechen.github.io/publication/deeper/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/deeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoSER: Coordinating LLM-Based Persona Simulation of Established Roles</title>
+      <link>https://jiangjiechen.github.io/publication/coser/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/coser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>

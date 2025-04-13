@@ -5,12 +5,84 @@
     <link>https://jiangjiechen.github.io/publication/</link>
       <atom:link href="https://jiangjiechen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jiangjiechen.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning</title>
+      <link>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAPO: An Open-source LLM Reinforcement Learning System At Scale</title>
+      <link>https://jiangjiechen.github.io/publication/dapo/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/dapo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention</title>
+      <link>https://jiangjiechen.github.io/publication/powerattention/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/powerattention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling</title>
+      <link>https://jiangjiechen.github.io/publication/deeper/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/deeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoSER: Coordinating LLM-Based Persona Simulation of Established Roles</title>
+      <link>https://jiangjiechen.github.io/publication/coser/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/coser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
+      <link>https://jiangjiechen.github.io/publication/easytool/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
+      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing the Barriers of Language Agents in Planning</title>
+      <link>https://jiangjiechen.github.io/publication/barrierinplanning/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/barrierinplanning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
+      <link>https://jiangjiechen.github.io/publication/selfgoal/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/selfgoal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SEGMENT&#43;: Long Text Processing with Short-Context Language Models</title>
@@ -49,22 +121,6 @@
       <link>https://jiangjiechen.github.io/publication/detectbench/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/detectbench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
-      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
-      <link>https://jiangjiechen.github.io/publication/selfgoal/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/selfgoal/</guid>
       <description></description>
     </item>
     
@@ -137,14 +193,6 @@
       <link>https://jiangjiechen.github.io/publication/travelplanner/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/travelplanner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
-      <link>https://jiangjiechen.github.io/publication/easytool/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
       <description></description>
     </item>
     

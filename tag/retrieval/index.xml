@@ -5,7 +5,7 @@
     <link>https://jiangjiechen.github.io/tag/retrieval/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/retrieval/index.xml" rel="self" type="application/rss+xml" />
     <description>Retrieval</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Retrieval</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?</title>
-      <link>https://jiangjiechen.github.io/publication/irrelevant/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/irrelevant/</guid>
+      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
+      <link>https://jiangjiechen.github.io/publication/easytool/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
-      <link>https://jiangjiechen.github.io/publication/easytool/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/easytool/</guid>
+      <title>How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?</title>
+      <link>https://jiangjiechen.github.io/publication/irrelevant/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/irrelevant/</guid>
       <description></description>
     </item>
     

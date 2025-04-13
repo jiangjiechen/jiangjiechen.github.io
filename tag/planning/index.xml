@@ -5,7 +5,7 @@
     <link>https://jiangjiechen.github.io/tag/planning/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Planning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Planning</title>
@@ -13,26 +13,34 @@
     </image>
     
     <item>
-      <title>TravelAgent: An AI Assistant for Personalized Travel Planning</title>
-      <link>https://jiangjiechen.github.io/publication/travelagent/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/travelagent/</guid>
+      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
+      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
-      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
+      <title>Revealing the Barriers of Language Agents in Planning</title>
+      <link>https://jiangjiechen.github.io/publication/barrierinplanning/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/barrierinplanning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals</title>
       <link>https://jiangjiechen.github.io/publication/selfgoal/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/selfgoal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TravelAgent: An AI Assistant for Personalized Travel Planning</title>
+      <link>https://jiangjiechen.github.io/publication/travelagent/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/travelagent/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,36 @@
     <link>https://jiangjiechen.github.io/tag/reasoning/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/reasoning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reasoning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Reasoning</title>
       <link>https://jiangjiechen.github.io/tag/reasoning/</link>
     </image>
+    
+    <item>
+      <title>Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning</title>
+      <link>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAPO: An Open-source LLM Reinforcement Learning System At Scale</title>
+      <link>https://jiangjiechen.github.io/publication/dapo/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/dapo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
+      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Past Meets Present: Creating Historical Analogy with Large Language Models</title>
@@ -25,14 +49,6 @@
       <link>https://jiangjiechen.github.io/publication/detectbench/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/detectbench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms</title>
-      <link>https://jiangjiechen.github.io/publication/evoagent/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://jiangjiechen.github.io/publication/evoagent/</guid>
       <description></description>
     </item>
     
