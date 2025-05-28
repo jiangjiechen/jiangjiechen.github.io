@@ -2,48 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiangjiechen.github.io/publication-type/4/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <loc>https://jiangjiechen.github.io/publication-type/3/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication/enigmata/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/large-language-models/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/large-reasoning-models/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/publication_types/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/publication/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/reasoning/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/tags/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jiangjiechen.github.io/publication-type/4/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/publication/seed_thinking_v1.5/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/tags/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jiangjiechen.github.io/publication-type/3/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jiangjiechen.github.io/publication/dapo/</loc>
