@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Reinforcement Learning</title>
       <link>https://jiangjiechen.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent</title>
+      <link>https://jiangjiechen.github.io/publication/memagent/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/memagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIA: Training Language Agents with Intention-Driven Reward Aggregation</title>
+      <link>https://jiangjiechen.github.io/publication/aria/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/aria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</title>

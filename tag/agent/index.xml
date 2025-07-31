@@ -5,12 +5,28 @@
     <link>https://jiangjiechen.github.io/tag/agent/</link>
       <atom:link href="https://jiangjiechen.github.io/tag/agent/index.xml" rel="self" type="application/rss+xml" />
     <description>Agent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Agent</title>
       <link>https://jiangjiechen.github.io/tag/agent/</link>
     </image>
+    
+    <item>
+      <title>MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent</title>
+      <link>https://jiangjiechen.github.io/publication/memagent/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/memagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIA: Training Language Agents with Intention-Driven Reward Aggregation</title>
+      <link>https://jiangjiechen.github.io/publication/aria/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/aria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction</title>
