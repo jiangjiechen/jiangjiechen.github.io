@@ -5,12 +5,52 @@
     <link>https://jiangjiechen.github.io/publication-type/1/</link>
       <atom:link href="https://jiangjiechen.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://jiangjiechen.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>ARIA: Training Language Agents with Intention-Driven Reward Aggregation</title>
+      <link>https://jiangjiechen.github.io/publication/aria/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/aria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints</title>
+      <link>https://jiangjiechen.github.io/publication/origamispace/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/origamispace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles</title>
+      <link>https://jiangjiechen.github.io/publication/enigmata/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/enigmata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation</title>
+      <link>https://jiangjiechen.github.io/publication/korgym/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/korgym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAPO: An Open-source LLM Reinforcement Learning System At Scale</title>
+      <link>https://jiangjiechen.github.io/publication/dapo/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/dapo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling</title>
@@ -97,6 +137,14 @@
       <link>https://jiangjiechen.github.io/publication/cross/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
+      <link>https://jiangjiechen.github.io/publication/lifechoice/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/lifechoice/</guid>
       <description></description>
     </item>
     

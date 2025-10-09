@@ -5,12 +5,20 @@
     <link>https://jiangjiechen.github.io/publication/</link>
       <atom:link href="https://jiangjiechen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangjiechen.github.io/media/icon_hua9f9b78e35233aa477f7219cbf68418f_67044_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jiangjiechen.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models</title>
+      <link>https://jiangjiechen.github.io/publication/thinkdial/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/thinkdial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent</title>
@@ -25,6 +33,14 @@
       <link>https://jiangjiechen.github.io/publication/aria/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       <guid>https://jiangjiechen.github.io/publication/aria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints</title>
+      <link>https://jiangjiechen.github.io/publication/origamispace/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangjiechen.github.io/publication/origamispace/</guid>
       <description></description>
     </item>
     

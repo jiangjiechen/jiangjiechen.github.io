@@ -1,0 +1,437 @@
+% !TEX program = xelatex
+% This is my resume
+% by ice1000
+
+\documentclass{resume}
+\usepackage{lastpage}
+% \usepackage{fancyhdr}
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{xspace}
+\usepackage{enumitem}
+\usepackage[fallback]{xeCJK}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{cleveref}
+% \usepackage{multicol}
+
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    % citecolor={blue!50!black},
+    % urlcolor={blue!40!black}
+    urlcolor={brown}
+}
+
+% \crefname{item}{}{}
+% \Crefname{item}{}{}
+
+
+\begin{document}
+% \pagestyle{fancy}
+% \fancyhf{}
+% \renewcommand\headrulewidth{0pt}
+% \cfoot{\thepage\ of \pageref{LastPage}}
+
+\name{Jiangjie Chen}
+
+\basicInfo{
+  \email{jiangjie\_chen@outlook.com} 
+  \textperiodcentered\
+  \homepage{https://jiangjiechen.github.io} 
+  % \textperiodcentered\
+  % \phone{(+86) 158-5705-2999}
+  % \textperiodcentered\
+  % {January 10th, 1997}
+}
+
+
+
+\section{Biography}
+
+\textbf{Jiangjie Chen} (陈江捷) is a researcher at ByteDance Seed Team.
+His current interested research topics are mostly around building \textit{reasoning models} and \textit{autonomous agents}:
+\begin{itemize}
+    \item \textbf{Reasoning Models}: Advancing research on incentivizing and understanding advanced reasoning and planning capabilities from large models.
+    
+    \item \textbf{Autonomous Agents}: Developing advanced methods for autonomous, trustworthy, and personalized agents. This extends towards the exploration of their interactions with multiple agents and real environments.
+\end{itemize}
+
+
+\section{Education}
+
+\datedline{\textbf{Fudan University} (Shanghai). Ph.D. in School of Computer Science}{2019 - 2024}
+\begin{itemize}
+    \item \href{http://kw.fudan.edu.cn}{Shanghai Key Laboratory of Data Science, Knowledge Works Laboratory}.
+    \item Ph.D. Advisor: \href{https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en}{Yanghua Xiao}.
+\end{itemize}
+
+
+
+\datedline{\textbf{Fudan University} (Shanghai). B.S. in School of Computer Science (graduated with \textit{honors})}{2014 - 2019}
+\begin{itemize}
+    \item \href{http://kw.fudan.edu.cn}{Shanghai Key Laboratory of Data Science, Knowledge Works Laboratory}.
+    \item Advisor: \href{https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en}{Yanghua Xiao}.
+\end{itemize}
+
+
+
+\section{Experiences}
+
+\datedline{\textbf{ByteDance Seed (Shanghai, China)}}{Jul 2024 - Present}
+\begin{itemize}
+  \item Role: Researcher, at \href{https://team.doubao.com/en/topseed}{Seed Team}
+  \item Manager: \href{https://mingxuan.github.io}{Mingxuan Wang}
+  \item Responsibilities: Work on reasoning models.
+\end{itemize}
+
+\datedline{\textbf{Allen Institute for AI} (Seattle, WA, USA)}{Jun 2023 - Sep 2023}
+\begin{itemize}
+  \item Role: Research Intern, at \href{https://allenai.org/aristo}{Aristo Team}
+  \item Mentor: \href{https://nlp-kyle.com}{Kyle Richardson}
+  \item Manager: \href{https://allenai.org/team/peterc}{Peter Clark}
+  \item Responsibilities: Work on multi-agent reasoning evaluation.
+\end{itemize}
+
+% \datedline{\textbf{UC Santa Barbara} (Remote)}{Sep 2021 - May 2023}
+% \begin{itemize}
+%   \item Role: Visiting Research Intern
+%   \item Host: \href{https://lileicc.github.io}{Lei Li}
+%   \item Responsibilities: Work on machine reasoning over language with large language models.
+% \end{itemize}
+
+
+\datedline{\textbf{ByteDance AI Lab} (Shanghai, China)}{Nov 2019 - May 2023}
+\begin{itemize}
+  \item Role: Research Intern
+  \item Mentors: \href{https://lileicc.github.io}{Lei Li}, \href{https://zhouh.github.io}{Hao Zhou}, \href{https://czsun.site}{Changzhi Sun}, \href{https://scholar.google.com/citations?user=Vt1j3kEAAAAJ&hl=en}{Jiaze Chen}
+  \item Manager: \href{https://lileicc.github.io}{Lei Li}
+  \item Responsibilities: Work on knowledge-guided text generation, and machine reasoning over language.
+\end{itemize}
+
+% \datedline{\textbf{Knowledge Works Laboratory at Fudan University} (Shanghai, China)}{Sep 2019 - Jun 2024}
+% \begin{itemize}
+%     \item Role: Student Research Lead
+%     \item Responsibilities: Lead a research team on language generation and reasoning. Mentored nearly 20 graduate and undergraduate students over the past years. 
+%     Together, we co-authored and published several research papers, including one that received an Outstanding Paper Award in ACL 2023.
+% \end{itemize}
+
+\section{Selected Awards}
+
+\datedline{\textbf{ACL 2025 Outstanding Paper Award}}{2025}
+
+\datedline{\textbf{Nomination Award for Outstanding Doctoral Dissertation of Shanghai Computer Society}}{2025}
+
+\datedline{\textbf{Excellent Graduates of Shanghai}}{2024}
+
+\datedline{\textbf{ACL 2023 Outstanding Paper Award}}{2023}
+
+% \datedline{\textbf{Huawei Scholarship}}{2023}
+
+
+\datedline{\textbf{China National Scholarship for Doctoral Students}}{2022}
+
+\datedline{\textbf{Honors Student Award in Computer Science of Top Talent Undergraduate Training Program}}{2019}
+
+
+\section{Selected Work}
+
+[*: Equal Contribution; $\spadesuit$: Student I Mentored]
+\begin{enumerate}[label={[\arabic*]}]
+\setlength{\itemsep}{3pt}
+
+
+  \item \textbf{\href{https://seed-enigmata.github.io}{\textsc{Enigmata}: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles}}\\
+  \label{paper:enigmata}
+  \textbf{Jiangjie Chen}*, Qianyu He*$^\spadesuit$, Siyu Yuan*$^\spadesuit$, Aili Chen*$^\spadesuit$, Zhicheng Cai, Weinan Dai, Hongli Yu, Qiying Yu, Xuefeng Li, Jiaze Chen, Hao Zhou, Mingxuan Wang.\\
+  Regular paper, in: \textbf{NeurIPS 2025}, \textcolor{red}{\textbf{\textit{Spotlight}}}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/seed_thinking_v1.5}{Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning}}\\
+  \label{paper:seed-thinking-v1.5}
+  ByteDance Seed Team.\\
+  Technical Report, 2025.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/dapo}{DAPO: An Open-source LLM Reinforcement Learning System At Scale}}\\
+  \label{paper:dapo}
+  Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Guangming Sheng, Yuxuan Tong, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Jinhua Zhu, Jiaze Chen, \textbf{Jiangjie Chen}, Chengyi Wang, Hongli Yu, Weinan Dai, Yuxuan Song, Xiangpeng Wei, Hao Zhou, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Lin Yan, Mu Qiao, Yonghui Wu, Mingxuan Wang.\\
+  Regular paper, in: \textbf{NeurIPS 2025}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/historyanalogy}{Past Meets Present: Creating Historical Analogy with Large Language Models}}\\
+  \label{paper:historyanalogy}
+  Nianqi Li$^\spadesuit$, Siyu Yuan$^\spadesuit$, \textbf{Jiangjie Chen}, Jiaqing Liang, Feng Wei, Zujie Liang, Deqing Yang, Yanghua Xiao.\\
+  Long paper, in: \textbf{ACL 2025}, \textcolor{red}{\textbf{\textit{Outstanding Paper Award}}}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/travelplanner}{TravelPlanner: A Benchmark for Real-World Planning with Language Agents}}\\
+  \label{paper:travelplanner}
+  Jian Xie*$^\spadesuit$, Kai Zhang*, \textbf{Jiangjie Chen}, Tinghui Zhu$^\spadesuit$, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.\\
+  Regular paper, in: \textbf{ICML 2024}, \textcolor{red}{\textbf{\textit{Spotlight}}}.
+
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/sloth/}{Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflict}}\\
+  \label{paper:sloth}
+  Jian Xie*$^\spadesuit$, Kai Zhang*, \textbf{Jiangjie Chen}, Renze Lou, Yu Su.\\
+  Regular paper, in: \textbf{ICLR 2024}, \textcolor{red}{\textbf{\textit{Spotlight}}}.
+
+   
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/rplasurvey}{From Persona to Personalization: A Survey on Role-Playing Language Agents}}\\
+  \label{paper:rplasurvey}
+  \textbf{Jiangjie Chen}*, Xintao Wang*$^\spadesuit$, Rui Xu*$^\spadesuit$, Siyu Yuan*$^\spadesuit$, Yikai Zhang*$^\spadesuit$, Wei Shi*$^\spadesuit$, Jian Xie*$^\spadesuit$, Shuang Li$^\spadesuit$, Ruihan Yang$^\spadesuit$, Tinghui Zhu$^\spadesuit$, Aili Chen$^\spadesuit$, Nianqi Li$^\spadesuit$, Lida Chen$^\spadesuit$, Caiyu Hu$^\spadesuit$, Siye Wu$^\spadesuit$, Scott Ren$^\spadesuit$, Ziquan Fu, Yanghua Xiao.\\
+  Journal paper, in: \textbf{TMLR 2024}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/coscript/}{Distilling Script Knowledge from Large Language Models for Constrained Language Planning}}\\
+  \label{paper:coscript}
+  Siyu Yuan$^\spadesuit$, \textbf{\color{black}{Jiangjie Chen}}, Ziquan Fu$^\spadesuit$, Xuyang Ge$^\spadesuit$, Soham Shah, Charles Robert Jankowski, Yanghua Xiao, Deqing Yang.\\
+  Long paper, in: \textbf{ACL 2023}, \textcolor{red}{\textbf{\textit{Outstanding Paper Award}}}.
+
+  
+  
+\end{enumerate}
+
+\section{More Work}
+
+[*: Equal Contribution; $\spadesuit$: Student I Mentored]
+
+\begin{enumerate}[label={[\arabic*]}]
+\setlength{\itemsep}{3pt}
+\setcounter{enumi}{9}
+
+  \item \textbf{\href{https://arxiv.org/pdf/2508.18773}{ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models}}\\
+  \label{paper:thinkdial}
+  Qianyu He$^\spadesuit$*, Siyu Yuan$^\spadesuit$*, Xuefeng Li$^\spadesuit$, Mingxuan Wang, \textbf{Jiangjie Chen}.\\
+  Preprint, 2025
+
+
+  \item \textbf{\href{https://memagent-sialab.github.io}{MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent}}\\
+  \label{paper:memagent}
+  Hongli Yu, Tinghong Chen, Jiangtao Feng, \textbf{Jiangjie Chen}, Weinan Dai, Qiying Yu, Ya-Qin Zhang, Wei-Ying Ma, Jingjing Liu, Mingxuan Wang, Hao Zhou.\\
+  Preprint, 2025.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/aria}{ARIA: Training Language Agents with Intention-Driven Reward Aggregation}}\\
+  \label{paper:aria}
+  Ruihan Yang$^\spadesuit$*, Yikai Zhang$^\spadesuit$*, Aili Chen$^\spadesuit$, Xintao Wang$^\spadesuit$, Siyu Yuan$^\spadesuit$, \textbf{Jiangjie Chen}, Deqing Yang, Yanghua Xiao.\\
+  Regular paper, in: \textbf{NeurIPS 2025}, \textcolor{red}{\textbf{\textit{Spotlight}}}.
+
+  \item \textbf{\href{https://openreview.net/forum?id=y7ahj9RoXQ}{ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints}}\\
+  \label{paper:ORIGAMISPACE}
+  Rui Xu$^\spadesuit$, Dakuan Lu, Zicheng Zhao, Xiaoyu Tan, Xintao Wang$^\spadesuit$, Siyu Yuan$^\spadesuit$, \textbf{Jiangjie Chen}, Yinghui Xu.\\
+  Regular paper, in: \textbf{NeurIPS 2025}, \textcolor{red}{\textbf{\textit{Spotlight}}}.
+
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/korgym}{KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation}}\\
+  \label{paper:korgym}
+  Jiajun Shi, Jian Yang, Jiaheng Liu, Xingyuan Bu, \textbf{Jiangjie Chen}, Junting Zhou, Kaijing Ma, Zhoufutu Wen, Bingli Wang, Yancheng He, Liang Song, Hualei Zhu, Shilong Li, Xingjian Wang, Wei Zhang, Ruibin Yuan, Yifan Yao, Wenjun Yang, Yunli Wang, Siyuan Fang, Siyu Yuan, Qianyu He, Xiangru Tang, Yingshui Tan, Wangchunshu Zhou, Zhaoxiang Zhang, Zhoujun Li, Wenhao Huang, Ge Zhang.\\
+  Regular paper, in: \textbf{NeurIPS 2025}, \textcolor{red}{\textbf{\textit{Spotlight}}}.
+
+  \item \textbf{\href{https://arxiv.org/pdf/2404.12138.pdf}{Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?}}\\
+  \label{paper:destiny}
+  Rui Xu$^\spadesuit$, Xintao Wang$^\spadesuit$, \textbf{Jiangjie Chen}, Siyu Yuan$^\spadesuit$, Xinfeng Yuan$^\spadesuit$, Jiaqing Liang, Zulong Chen, Xiaoqing Dong, Yanghua Xiao.\\
+  Long paper, in: \textbf{Findings of EMNLP 2025}.
+
+  \item \textbf{\href{https://arxiv.org/pdf/2509.03419}{Curse of Knowledge: When Complex Evaluation Context Benefits yet Biases LLM Judges}}\\
+  \label{paper:curseofknowledge}
+  Weiyuan Li$^\spadesuit$, Xintao Wang$^\spadesuit$, Siyu Yuan$^\spadesuit$, Rui Xu$^\spadesuit$, \textbf{Jiangjie Chen}, Qingqing Dong, Yanghua Xiao, Deqing Yang.\\
+  Long paper, in: \textbf{Findings of EMNLP 2025}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/spatialmapping}{Can LLMs Learn to Map the World from Local Descriptions?}}\\
+  \label{paper:spatialmapping}
+  Sirui Xia$^\spadesuit$, Aili Chen$^\spadesuit$, Xintao Wang$^\spadesuit$, Tinghui Zhu, Yikai Zhang$^\spadesuit$, \textbf{Jiangjie Chen}, Yanghua Xiao.\\
+  Preprint, 2025.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/deeper}{DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling}}\\
+  \label{paper:deeper}
+  Aili Chen$^\spadesuit$, Chengyu Du$^\spadesuit$, \textbf{Jiangjie Chen}, Jinghan Xu$^\spadesuit$, Yikai Zhang$^\spadesuit$, Siyu Yuan$^\spadesuit$, Zulong Chen, Liangyue Li, Yanghua Xiao\\
+  Long paper, in: \textbf{ACL 2025}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/coser}{CoSER: Coordinating LLM-Based Persona Simulation of Established Roles}}\\
+  \label{paper:coser}
+  Xintao Wang$^\spadesuit$, Heng Wang, Yifei Zhang, Xinfeng Yuan$^\spadesuit$, Rui Xu$^\spadesuit$, Jen-tse Huang, Siyu Yuan$^\spadesuit$, Haoran Guo, \textbf{Jiangjie Chen}, Wei Wang, Yanghua Xiao, Shuchang Zhou.\\
+  Regular paper, in: \textbf{ICML 2025}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/powerattention}{PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention}}\\
+  \label{paper:powerattention}
+  Lida Chen*$^\spadesuit$, Dong Xu*$^\spadesuit$, Chenxin An, Xintao Wang$^\spadesuit$, Yikai Zhang$^\spadesuit$, \textbf{Jiangjie Chen}, Zujie Liang, Feng Wei, Jiaqing Liang, Yanghua Xiao, Wei Wang.\\
+  Preprint, 2025.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/evoagent}{EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms}}\\
+  \label{paper:evoagent}
+  Siyu Yuan*$^\spadesuit$, Kaitao Song*, \textbf{Jiangjie Chen}, Xu Tan, Dongsheng Li, Deqing Yang.\\
+  Long paper, in: \textbf{NAACL 2025}.
+  
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/selfgoal}{\textsc{SelfGoal}: Your Language Agents Already Know How to Achieve High-level Goals}}\\
+  \label{paper:selfgoal}
+  Ruihan Yang$^\spadesuit$, \textbf{Jiangjie Chen}, Yikai Zhang$^\spadesuit$, Siyu Yuan$^\spadesuit$, Aili Chen$^\spadesuit$, Kyle Richardson, Yanghua Xiao, Deqing Yang.\\
+  Long paper, in: \textbf{NAACL 2025}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/easytool}{EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction}}\\
+  \label{paper:easytool}
+  Siyu Yuan*$^\spadesuit$, Kaitao Song*, \textbf{Jiangjie Chen}, Xu Tan, Yongliang Shen, Ren Kan, Dongsheng Li, Deqing Yang.\\
+  Long paper, in: \textbf{NAACL 2025}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/barrierinplanning}{Revealing the Barriers of Language Agents in Planning}}\\
+  \label{paper:planningbarriers}
+  Jian Xie$^\spadesuit$, Kexun Zhang*, \textbf{Jiangjie Chen}*, Siyu Yuan$^\spadesuit$, Kai Zhang, Yikai Zhang$^\spadesuit$, Lei Li, Yanghua Xiao\\
+  Long paper, in: \textbf{NAACL 2025}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/timearena}{TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation}}\\
+  \label{paper:timearena}
+  Yikai Zhang$^\spadesuit$, Siyu Yuan$^\spadesuit$, Caiyu Hu$^\spadesuit$, Kyle Richardson, Yanghua Xiao, \textbf{Jiangjie Chen}.\\
+  Long paper, in: \textbf{ACL 2024}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/travelagent}{TravelAgent: An AI Assistant for Personalized Travel Planning}}\\
+  \label{paper:travelagent}
+  Aili Chen$^\spadesuit$, Xuyang Ge, Ziquan Fu, Yanghua Xiao, \textbf{Jiangjie Chen}.\\
+  Preprint, 2024.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/segmentplus}{SEGMENT+: Long Text Processing with Short-Context Language Models}}\\
+  \label{paper:segmentplus}
+  Wei Shi$^\spadesuit$, Shuang Li$^\spadesuit$*, Kerun Yu*, Jinglei Chen, Zujie Liang, Xinhui Wu, Yuxi Qian, Feng Wei, Bo Zheng, Jiaqing Liang, \textbf{Jiangjie Chen}, Yanghua Xiao.\\
+  Long paper, in: \textbf{EMNLP 2024}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publications/irrelevant}{How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?}}\\
+  \label{paper:irrelevant}
+  Siye Wu$^\spadesuit$*, Jian Xie$^\spadesuit$*, \textbf{Jiangjie Chen}, Tinghui Zhu$^\spadesuit$, Kai Zhang, Yanghua Xiao.\\
+  Regular paper, in: \textbf{COLM 2024}.
+  
+ 
+
+  \item \textbf{\href{https://survey-agent.github.io}{SurveyAgent: A Conversational System for Personalized and Efficient Research Survey}}\\
+  \label{paper:surveyagent}
+  Xintao Wang$^\spadesuit$*, \textbf{Jiangjie Chen}*, Nianqi Li$^\spadesuit$, Lida Chen$^\spadesuit$, Xinfeng Yuan$^\spadesuit$, Wei Shi$^\spadesuit$, Xuyang Ge$^\spadesuit$, Rui Xu$^\spadesuit$, Yanghua Xiao.\\
+  Preprint, 2024.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/analogykb/}{AnalogyKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base}}\\
+  \label{paper:analogykb}
+  Siyu Yuan*$^\spadesuit$, \textbf{\color{black}{Jiangjie Chen}}*, Changzhi Sun, Jiaqing Liang, Yanghua Xiao, Deqing Yang.\\
+  Long paper, in: \textbf{ACL 2024}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/incharacter}{InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews}}\\
+  \label{paper:incharacter}
+  Xintao Wang$^\spadesuit$, Yunze Xiao, Jen-tse Huang, Siyu Yuan$^\spadesuit$, Rui Xu$^\spadesuit$, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, \textbf{Jiangjie Chen}, Cheng Li, Yanghua Xiao.\\
+  Long paper, in: \textbf{ACL 2024}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/gumbelsoft}{GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick}}\\
+  \label{paper:gumbelsoft}
+  Jiayi Fu$^\spadesuit$, Xuandong Zhao, Ruihan Yang$^\spadesuit$, Yuansen Zhang, \textbf{Jiangjie Chen}, Yanghua Xiao.\\
+  Long paper, in: \textbf{ACL 2024}.
+
+  \item \textbf{\href{https://arxiv.org/pdf/2403.13433}{AgentGroupChat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior}}\\
+  \label{paper:agentgroupchat}
+  Zhouhong Gu, Xiaoxuan Zhu, Haoran Guo, Lin Zhang, Yin Cai, Hao Shen, \textbf{Jiangjie Chen}, Zheyu Ye, Yifei Dai, Yan Gao, Yao Hu, Hongwei Feng, Yanghua Xiao.\\
+  Preprint, 2024.
+  
+  \item \textbf{\href{https://arxiv.org/pdf/2404.12726.pdf}{Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works}}\\
+  \label{paper:persona}
+  Xinfeng Yuan$^\spadesuit$, Siyu Yuan$^\spadesuit$*, Yuhan Cui$^\spadesuit$*, Tianhe Lin$^\spadesuit$, Xintao Wang$^\spadesuit$, Rui Xu$^\spadesuit$, \textbf{Jiangjie Chen}, Deqing Yang.\\
+  Long paper, in: \textbf{EMNLP 2024}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/detectbench}{DetectBench: Can Large Language Model Detect and Piece Together Implicit Evidence?}}\\
+  \label{paper:detectbench}
+  Zhouhong Gu, Lin Zhang, Xiaoxuan Zhu, \textbf{Jiangjie Chen}, Wenhao Huang, Yikai Zhang$^\spadesuit$, Shusen Wang, Zheyu Ye, Yan Gao, Hongwei Feng, Yanghua Xiao\\
+  Long paper, in: \textbf{Findings of EMNLP 2024}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/idiomkb}{Translate Meanings, Not Just Words: IdiomKB's Role in Optimizing Idiomatic Translation with Language Models}}\\
+  \label{paper:idiomkb}
+  Shuang Li$^\spadesuit$, \textbf{Jiangjie Chen}, Siyu Yuan$^\spadesuit$, Xinyi Wu$^\spadesuit$, Hao Yang, Shimin Tao, Yanghua Xiao.\\
+  Regular paper, in: \textbf{AAAI 2024}.
+
+  \item \textbf{\href{https://auction-arena.github.io}{Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena}}\\
+  \label{paper:auction}
+  \textbf{\color{black}{Jiangjie Chen}}, Siyu Yuan$^\spadesuit$, Rong Ye, Bodhisattwa Prasad Majumder, Kyle Richardson.\\
+  Regular paper, in: \textbf{NeurIPS 2024 Workshop on Open-World Agents}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/scar/}{Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction}}\\
+  \label{paper:scar}
+  Siyu Yuan$^\spadesuit$, \textbf{\color{black}{Jiangjie Chen}}, Xuyang Ge$^\spadesuit$, Yanghua Xiao, Deqing Yang.\\
+  Long paper, in: \textbf{Findings of EMNLP 2023}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/uncommongen/}{Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge}}\\
+  \label{paper:negation}
+  \textbf{Jiangjie Chen}, Wei Shi$^\spadesuit$, Ziquan Fu$^\spadesuit$, Sijie Cheng, Lei Li, Yanghua Xiao.\\
+  Long paper, in: \textbf{ACL 2023}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/vence/}{Converge to the Truth: Factual Error Correction via Iterative Constrained Editing}}\\
+  \label{paper:vence}
+  \textbf{\color{black}{Jiangjie Chen}}*, Rui Xu*$^\spadesuit$, Wenxuan Zeng$^\spadesuit$, Changzhi Sun, Lei Li, Yanghua Xiao.\\
+  Regular paper, in: \textbf{AAAI 2023}. 
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/neon/}{Unsupervised Explanation Generation via Correct Instantiations}} \\
+  \label{paper:neon}
+  Sijie Cheng, Zhiyong Wu, \textbf{Jiangjie Chen}, Zhixing Li, Yang Liu, Lingpeng Kong.\\
+  Regular paper, in: \textbf{AAAI 2023}.
+
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/ekar/}{E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning}}\\
+  \label{paper:ekar}
+  \textbf{Jiangjie Chen}, Rui Xu$^\spadesuit$, Ziquan Fu$^\spadesuit$, Wei Shi$^\spadesuit$, Zhongqiao Li$^\spadesuit$, Xinbo Zhang, Changzhi Sun, Lei Li, Yanghua Xiao and Hao Zhou. \\
+  Long paper, in: \textbf{Findings of ACL 2022}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/tcdereview/}{Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review}} \\
+  \label{paper:review}
+  \textbf{Jiangjie Chen}, Yanghua Xiao.\\
+  Invited paper, in: \textbf{Bulletin of the IEEE Technical Committee on Data Engineering (2022)}
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/act/}{Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints}}\\
+  \label{paper:act}
+  Chun Zeng*$^\spadesuit$, \textbf{\color{black}{Jiangjie Chen}}*, Tianyi Zhuang$^\spadesuit$, Rui Xu$^\spadesuit$, Hao Yang, Ying Qin, Shimin Tao, Yanghua Xiao.\\
+  Long paper, in: \textbf{NAACL 2022}.
+  
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/falcon/}{\textsc{FalCon}: A Faithful Contrastive Framework for Response Generation in TableQA Systems}} \\
+  \label{paper:falcon}
+  Shineng Fang$^\spadesuit$, \textbf{Jiangjie Chen}, Xinyao Shen$^\spadesuit$, Yunwen Chen, Yanghua Xiao. \\
+  Long paper, in: \textbf{DASFAA 2022}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/loren/}{\textsc{LoReN}: Logic-Regularized Reasoning for Interpretable Fact Verification}}\\
+  \label{paper:loren}
+  \textbf{Jiangjie Chen}, Qiaoben Bao$^\spadesuit$, Changzhi Sun, Xinbo Zhang, Jiaze Chen, Hao Zhou, Yanghua Xiao, Lei Li. \\
+  Regular paper, in: \textbf{AAAI 2022}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/educat/}{Unsupervised Editing for Counterfactual Stories}}\\
+  \label{paper:educat}
+  \textbf{Jiangjie Chen}, Chun Gan, Sijie Cheng, Hao Zhou, Yanghua Xiao, Lei Li. \\
+  Regular paper, in: \textbf{AAAI 2022}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/kedy/}{Diversified Query Generation Guided with Knowledge Graph}}\\
+  \label{paper:kedy}
+  Xinyao Shen$^\spadesuit$, \textbf{Jiangjie Chen}, Jiaze Chen, Chun Zeng$^\spadesuit$, Yanghua Xiao. \\
+  Long paper, in: \textbf{WSDM 2022}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/scope/}{Harvesting More Answer Spans from Paragraphs beyond Annotation}}\\
+  \label{paper:scope}
+  Qiaoben Bao$^\spadesuit$, \textbf{Jiangjie Chen}, Linfang Liu$^\spadesuit$, Jiaqing Liang, Jingping Liu, Yanghua Xiao. \\
+  Long paper, in: \textbf{WSDM 2022}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/keep/}{Diversified Paraphrase Generation with Commonsense Knowledge Graph}}\\  
+  \label{paper:keep}
+  Xinyao Shen$^\spadesuit$, \textbf{Jiangjie Chen}, Yanghua Xiao.\\
+  Long paper, in: \textbf{NLPCC 2021}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/probr/}{Probabilistic Graph Reasoning for Natural Proof Generation}}\\
+  \label{paper:probr}
+  Changzhi Sun*, Xinbo Zhang*, \textbf{Jiangjie Chen}, Chun Gan, Yuanbin Wu, Jiaze Chen, Hao Zhou, Lei Li. \\
+  Long paper, in: \textbf{Findings of ACL 2021}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/hedmodgen}{Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation}}\\
+  \label{paper:hedmod}
+  \textbf{Jiangjie Chen}, Ao Wang, Haiyun Jiang, Suo Feng, Chenguang Li, Yanghua Xiao.\\
+  Long paper, in: \textbf{ACL 2019}.
+  
+  \item \textbf{\href{https://jiangjiechen.github.io/publication/cnprobase/}{CN-Probase: A Data-driven Approach for Large-scale Chinese Taxonomy Construction}}\\ 
+  \label{paper:cnprobase}
+  Jindong Chen, Ao Wang, \textbf{Jiangjie Chen}, Yanghua Xiao, Zhendong Chu, Jingping Liu, Jiaqing Liang, Wei Wang. \\
+  Short paper, in: \textbf{ICDE 2019}. (CN-Probase has achieved near 100 million API calls at \url{http://kw.fudan.edu.cn/cnprobase}.)
+\end{enumerate}
+
+
+\section{Academic Services}
+
+\begin{itemize}
+  \item Serving as an Area Chair in ARR (2025-).
+  \item Awarded Outstanding Reviewers in EMNLP 2024.
+  \item Serving as a Program Committee/Reviewer of NeurIPS (2025-), COLM (2024), ARR (2023-), ACL (2023-), EMNLP (2021-), AAAI (2021-), WSDM (2023), NLPCC (2021-), ICDE (2024), and some corresponding workshops.
+  \item Serving as a Journal Reviewer of TPAMI (2022), APIN (2022-2023).
+  % \item Served as a Secondary Reviewer of ACL, EMNLP, EACL, KDD, CIKM, SIGIR, etc.
+\end{itemize}
+
+\thispagestyle{empty}
+\end{document}
+
